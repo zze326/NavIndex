@@ -1,0 +1,17 @@
+title: 导航
+favicon: dp2.png
+mainTitle: 嗖嗖嗖
+inputPlaceholder: 不懂么？不懂就搜，给老子搜！
+groups:
+  - group: test
+    items:
+      - name: 百度
+        url: https://www.baidu.com
+      - name: 必应
+        url: https://www.biying.com
+  - group: test2
+    items:
+      - name: 必应
+        url: https://www.biying.com
+      - name: 百度
+        url: https://www.baidu.com
