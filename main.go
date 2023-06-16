@@ -43,7 +43,7 @@ func index(ctx iris.Context) {
 var page = new(Page)
 
 func main() {
-	dataBytes, err := os.ReadFile("./data.yaml")
+	dataBytes, err := os.ReadFile("./conf/data.yaml")
 	if err != nil {
 		log.Fatal(err)
 	}
