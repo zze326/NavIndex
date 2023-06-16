@@ -1,5 +1,7 @@
 效果：
 
+![image](https://github.com/zze326/NavIndex/assets/49554487/3b10cbd3-d75b-4f7e-9e60-da390a01cced)
+
 这个导航页前端源于：
 
 - https://github.com/TopVitamin/static-nav
